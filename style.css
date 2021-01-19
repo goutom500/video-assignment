@@ -1,0 +1,108 @@
+
+/* Display block Tag */
+
+h1{
+    background-color: rgb(199, 52, 52);
+    color: #fff;
+}
+h2{
+    background-color: rgb(70, 16, 16);
+    color: #fff;
+}
+h3{
+    background-color: rgb(52, 116, 199);
+    color: #fff;
+}
+h4{
+    background-color: rgb(212, 166, 166);
+    color: #fff;
+}
+h5{
+    background-color: rgb(65, 12, 49);
+    color: #fff;
+}
+h6{
+    background-color: rgb(172, 238, 96);
+    color: #fff;
+}
+p{
+    background-color: rgb(93, 119, 63);
+    color: #fff;  
+}
+/* div{
+    background-color: rgb(99, 31, 73);
+    color: #fff;   
+} */
+ul{
+    background-color: rgb(124, 131, 139);
+    color: #fff; 
+}
+ol{
+    background-color: rgb(49, 148, 110);
+    color: #fff; 
+}
+
+
+/* Display inline Tag */
+
+li{
+    background-color: rgb(16, 38, 63);
+    color: #fff; 
+}
+a{
+    background-color: rgb(42, 51, 47);
+    color: #fff;
+}
+span{
+    background-color: rgb(167, 175, 58);
+    color: #fff;
+}
+small{
+    background-color: rgb(50, 103, 163);
+    color: #fff; 
+}
+
+mark{
+    background-color: rgb(163, 50, 112);
+    color: #fff;   
+}
+sub{
+    background-color: rgb(50, 32, 83);
+    color: #fff; 
+}
+sup{
+    background-color: rgb(112, 155, 149);
+    color: #fff; 
+}
+u{
+    background-color: rgb(90, 129, 175);
+    color: #fff; 
+}
+strong{
+    background-color: rgb(73, 90, 110);
+    color: #fff; 
+}
+input{
+    background-color: rgb(233, 20, 102)
+}
+b{
+    background-color: rgb(23, 146, 146);
+    color: #fff; 
+}
+i{
+    background-color: rgb(105, 63, 105);
+    color: #fff;   
+}
+button{
+    background-color: rgb(29, 41, 41);
+    color: #fff; 
+}
+code{
+    background-color: rgb(95, 65, 86);
+    color: #fff; 
+}
+
+
+.another-div{
+    text-align: center;
+}
